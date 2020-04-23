@@ -69,7 +69,7 @@ background-repeat:repeat-y;
 float:left;
 }
 
-#bottomContent .navColumn
+#bottomContent .navColumn .overview
 {
 width:350px;
 padding:5px;
